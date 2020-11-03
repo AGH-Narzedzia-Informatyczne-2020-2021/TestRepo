@@ -28,7 +28,7 @@ Alan Kays definition of OOP:
 
 **Obrazek**
 
-![Java mem](.README_images/Java mem.png)
+![Java](https://i.pinimg.com/736x/e0/23/34/e02334f0e0320a7438306dd13025d7d4.jpg)
 
 
 **Task list**
