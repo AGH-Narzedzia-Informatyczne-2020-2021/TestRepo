@@ -1,10 +1,10 @@
 # Test Repository
 Stworzone na potrzeby przedmiotu Narzędzia informatyczne.
 
-##Cel
+## Cel
 Przećwiczenie, np. syntaxu Markdown :smiley:
 
-###Przykłady formatowania
+### Przykłady formatowania
 
 **Kod w Javie**
 
@@ -28,7 +28,7 @@ Alan Kays definition of OOP:
 
 **Obrazek**
 
-![](.README_images/Java mem.png)
+![Java mem](.README_images/Java mem.png)
 
 
 **Task list**
